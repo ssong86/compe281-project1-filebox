@@ -1,3 +1,3 @@
 <?php
-$cloudfrontUrl = "http://d10ieizjwlhez6.cloudfront.net"
+$cloudfrontUrl = "http://d207bfm5mcfos6.cloudfront.net"
 ?>
